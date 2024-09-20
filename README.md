@@ -6,10 +6,10 @@ In the future, the idea might be to add cool features like sharing galleries usi
 to add more detailed pictures of life and analyze them in the same way as the ESP32-CAM pictures.
 
 # Working Process (Now)
-![](https://github.com/YuiByte/esp32-CAM/blob/main/img/Working%20Process%20(Now).png)
+![](https://github.com/YuiByte/esp32CAM-LittleCompanion/blob/main/img/Working%20Process%20(Now).png)
 
 # Working Process (At least)
-![](https://github.com/YuiByte/esp32-CAM/blob/main/img/Working%20Process%20(At%20least).png)
+![](https://github.com/YuiByte/esp32CAM-LittleCompanion/blob/main/img/Working%20Process%20(At%20least).png)
 
 
 # Components (Now)
