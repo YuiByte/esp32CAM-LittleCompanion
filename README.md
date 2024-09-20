@@ -13,18 +13,18 @@ to add more detailed pictures of life and analyze them in the same way as the ES
 
 
 # Components (Now)
-- ESP32-CAM
-- 1000mAh 3,7v Battery
+- ESP32-CAM 
+- 1000mAh 3,7v 🔋
 
 # Components (At least)
 - Seeed Studio XIAO ESP32 S3
-- ON/OFF switch button
-- 300mAh 3,7v Battery
+- ON/OFF switch button 
+- 300mAh 3,7v 🔋
 
 My idea is to have a smaller device at the end of the project.
 It's simple to switch to a different device; only a few lines of code will need to be changed.
 
-Later, I will add information about the battery duration for 100mAh, 300mAh, and 1000mAh to see the device's power consumption and how long it can stay powered on.
+Later, I will add information about the battery duration for 100mAh, 300mAh, and 1000mAh 🔋 to see the device's power consumption and how long it can stay powered on.
 
 # Next Functionalities that will be added :
 - Send message on telegram when battery’s low (20%) & When it's charged (around 80%)
