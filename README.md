@@ -9,9 +9,9 @@ Functionalities ID :
 - Send message on telegram when battery’s low (20%) & When it's charged (80%)
 
 # Working Process (Now)
-![]()
+![](https://github.com/YuiByte/esp32-CAM/blob/main/img/Working%20Process%20(Now).png)
 
 # Working Process (At least)
-![]()
+![](https://github.com/YuiByte/esp32-CAM/blob/main/img/Working%20Process%20(At%20least).png)
 
 
