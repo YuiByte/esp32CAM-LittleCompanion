@@ -2,7 +2,7 @@
 This ESP32 project allows you to create a little companion that takes pictures of what you're doing every 10 minutes and sends them to a local server at home.
 That server will analyze the images, generate descriptions using AI, and add them to a local web server.
 
-In the future, the idea might be to add cool features like sharing galleries using Immich (a self-hosted photo and video management solution),
+In the future, the idea might be to add cool features like sharing galleries using [Immich](https://github.com/immich-app/immich) (self-hosted photo and video management solution),
 to add more detailed pictures of life and analyze them in the same way as the ESP32-CAM pictures.
 
 # Working Process (Now)
